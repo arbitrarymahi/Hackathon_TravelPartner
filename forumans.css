@@ -1,0 +1,73 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.fullcontainer
+{
+ margin-top: 20px;
+	min-height: 140px;
+	
+	    margin-left: 10%;
+    margin-right: 10%;
+	    box-shadow: 0 0 9px black;
+}
+.ansfullcontainer
+{
+ margin-top: 20px;
+	min-height:90 px;
+	
+	    margin-left: 10%;
+    margin-right: 10%;
+	    
+}
+#center
+{
+	padding-top: 10px;
+	padding-left: 5px;
+	min-height: 50px;
+	border-color: rgb(47,79,79);
+	text-align: left;
+	color: #777;
+	font-size: 25px;
+	
+}
+#bottom1
+{
+	min-height: 40px;
+		background-color: #f3efef;
+
+	text-align: right;
+	
+
+	}
+	#last
+	{
+	
+	min-height: 50px;
+	border-color: rgb(47,79,79);
+	text-align: left;
+	color: #777;
+	font-size: 25px;
+	
+}
+
+#anstop
+{
+	padding-top: 10px;
+	padding-left: 5px;
+	min-height: 50px;
+	border-color: rgb(47,79,79);
+	text-align: left;
+	color: #777;
+	font-size: 25px;
+}
+#ansuser
+{
+	
+	min-height: 40px;
+	
+
+	text-align: right;
+	
+}

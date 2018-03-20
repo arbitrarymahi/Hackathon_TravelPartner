@@ -1,0 +1,42 @@
+body{
+	background: #fff;
+}
+.userBio{
+	background: grey;
+	height: 250px; 
+	width: 100%;
+}
+
+.userColumn{
+	float: left;
+	width: 15%;
+	height: 100%; 
+	background: #f3efef;
+}
+#dp{
+	width: 100%;
+	height: 70%; 
+	padding: 5px;
+}
+
+#userName,#userEmail{
+	text-align: center;
+}
+.bioColumn{
+	height: 100%;
+	width: 85%;
+	float: right;
+	padding: 20px; 
+	background-color: #f3efef;
+
+}
+#social{
+	background-color: purple;
+
+	
+	bottom: 0;
+
+}
+.userThreads{
+	
+}

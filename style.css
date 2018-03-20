@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.Wrapper 				{ width:1000px; margin:0px auto; font-family:Tahoma, Geneva, sans-serif }
+
+.LeftSec				{ width:20%; float:left; background:#06C; }
+.LeftSec span, .LeftSec a			{ width: 100%; color: #ffffff; border-bottom: 1px solid #ffffff; display: block; padding: 10px; font-size: 12px; }
+.LeftSec a				{ color:#ffffff; text-decoration:none }
+.LeftSec a:hover		{ text-decoration:underline }
+.RightSec				{ width:80%; float:left; background:#ffffff; }
+.FeedsOuter				{     background: #f2f2f2;  border: 1px solid #cccccc; float:left; padding: 5px; width: 96%; margin-left: 10px; margin: 10px ; }
+.Image 					{ width:80px; height:80px; background:#ffffff; border:1px solid #cccccc; float:left }
+.Content				{ font-size: 12px; padding: 10px; float: right; width: 86%; line-height: 21px; padding-top: 0px; }
+.URL					{ background:#cccccc; padding:5px;  padding: 5px; float: left; width: 99%; font-size: 12px; }
+ .URL a					{ color:#000000; text-decoration:none; padding:0px 5px }
+  .URL a:hover			{ text-decoration:underline }	
